@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/Page007yan/count.svg)
 
-##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Page007&layout=compact&theme=tokyonight)
+
